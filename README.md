@@ -17,7 +17,7 @@ This project extracts audio from a video file, transcribes it into English text 
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/video_to_text.git
+   git clone https://github.com/MCloudLLC/video-to-text-azure-speech-api.git
    cd video_to_text
    ```
 
